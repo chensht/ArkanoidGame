@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * this class is a main class that starting the game.
  */
-public class Ass6Game {
+public class Game {
 
     /**
      * The main method activate the game.
